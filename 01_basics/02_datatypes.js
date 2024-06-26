@@ -20,5 +20,5 @@ console.log(typeof null)
 
 console.log("/////////////////////////////////////////////////////////////");
 //evaluate epressions using datatype
-let x = "Volvo" + 16 + 4;
+let x = "Volvo" + 16 + 4; 
 console.log(x)     //When adding a number and a string, JavaScript will treat the number as a string.
