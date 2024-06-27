@@ -15,7 +15,7 @@ console.log("/////////////////////////////////////////////////////////////");
 //how to popup out
 const cars2 = ["Toyota Camry", "Honda CR-V", "Ford F-Series", "Hyundai Tucson"];
 let car3 = cars2.pop();
-console.log(car3);
+console.log(car3); 
 
 console.log("/////////////////////////////////////////////////////////////");
 //how to push in an array
