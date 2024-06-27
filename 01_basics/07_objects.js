@@ -5,7 +5,7 @@ const flowers  = {type:"Tulip", color:"yellow", season:"spring "};
 let answer = flowers .season;
 console.log(answer);
 
- 
+  
 
 //retrieving multiple values from Object and merging in to sentence
 const person = {
